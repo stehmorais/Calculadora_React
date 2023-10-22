@@ -12,6 +12,6 @@ O projeto consiste em uma calculadora que efetua os cálculos básicos e exibe o
 - Css
 
 ## Deploy do projeto
-- 🔗 Link:
+- 🔗 Link: https://calculadora-react-ten-sigma.vercel.app/
 
 ### Desenvolvido com 💜 por Ester Morais
